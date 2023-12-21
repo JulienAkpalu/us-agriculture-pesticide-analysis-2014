@@ -32,6 +32,8 @@ En répondant à ces questions, nous avons pu obtenir un aperçu complet de l'ut
 
 ## Résultats obtenus
 L'analyse de 2014 sur l'utilisation des pesticides en agriculture aux États-Unis a révélé une vaste diversité des pesticides utilisés. Elle a quantifié l'utilisation totale des pesticides à l'échelle nationale, identifiant les pesticides les plus et les moins utilisés, ainsi que leur répartition géographique par État. Les visualisations de données ont souligné les tendances et disparités régionales, offrant une compréhension claire des pratiques agricoles et de la gestion des pesticides.
+![Rplot](https://github.com/JulienAkpalu/us-agriculture-pesticide-analysis-2014/assets/152445561/e85a8cda-df24-4c1f-9811-0a5c9d3b9d7b)
+
 
 ## Contact
 julienakpalu2@gmail.com 
