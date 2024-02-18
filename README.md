@@ -9,7 +9,7 @@ Analyse des données sur l'utilisation des pesticides en agriculture aux USA en 
 Ce projet réalise une analyse détaillée sur l'utilisation des pesticides dans l'agriculture aux États-Unis pour l'année 2014.
 
 ## Description du jeu de données
-Le jeu de données utilisé pour l'analyse de l'utilisation des pesticides en agriculture aux États-Unis en 2014 semble contenir les informations suivantes :
+Le jeu de données utilisé pour l'analyse de l'utilisation des pesticides en agriculture aux États-Unis en 2014 contient les informations suivantes :
 1.	COMPOUND : Cette colonne répertorie les noms ou les identifiants des composés chimiques utilisés comme pesticides. Chaque entrée correspond à un type de pesticide spécifique.
 2.	YEAR : L'année de l'enregistrement des données, qui est 2014 pour toutes les entrées dans ce jeu de données.
 3.	STATE_CODE : Un code numérique représentant les différents états des États-Unis. Chaque numéro identifie de manière unique un état.
