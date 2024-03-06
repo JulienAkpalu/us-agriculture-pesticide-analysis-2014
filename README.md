@@ -35,6 +35,13 @@ L'analyse de 2014 sur l'utilisation des pesticides en agriculture aux États-Uni
 
 ![Rplot](https://github.com/JulienAkpalu/us-agriculture-pesticide-analysis-2014/assets/152445561/e85a8cda-df24-4c1f-9811-0a5c9d3b9d7b)
 
+## Files in This Repository
+
+- `README.md` : Fournit une vue d'ensemble du projet et des instructions pour l'utiliser.
+- `script_R.txt` : Script R utilisé pour l'analyse des données sur les pesticides.
+- `dataset.csv` : Jeu de données sur l'utilisation des pesticides aux États-Unis en 2014.
+- `Rplot.png` : Graphique généré à partir de l'analyse des données.
+- `Explications.pdf` : Des détails sur les méthodologies et les techniques utilisées dans l'analyse de données.
 
 ## Contact
 julienakpalu2@gmail.com 
