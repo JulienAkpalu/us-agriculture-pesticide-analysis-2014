@@ -41,7 +41,7 @@ L'analyse de 2014 sur l'utilisation des pesticides en agriculture aux États-Uni
 - `script_R.txt` : Script R utilisé pour l'analyse des données sur les pesticides.
 - `dataset.csv` : Jeu de données sur l'utilisation des pesticides aux États-Unis en 2014.
 - `Rplot.png` : Graphique généré à partir de l'analyse des données.
-- `Explications.pdf` : Des détails sur les méthodologies et les techniques utilisées dans l'analyse de données.
+- `Explications.pdf` : Des détails sur les méthodologies et les techniques utilisées dans l'analyse des données.
 
 ## Contact
 julienakpalu2@gmail.com 
