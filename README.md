@@ -3,8 +3,6 @@ Analyse des données sur l'utilisation des pesticides en agriculture aux USA en 
 
 ## Titre du projet : "Analyse de l'Utilisation des Pesticides en Agriculture aux États-Unis en 2014"
 
-# Analyse de l'Utilisation des Pesticides dans l'Agriculture aux USA en 2014
-
 ## Contexte
 Ce projet réalise une analyse détaillée sur l'utilisation des pesticides dans l'agriculture aux États-Unis pour l'année 2014.
 
